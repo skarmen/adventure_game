@@ -10,4 +10,4 @@ Run directly from the terminal
  
 ### Game Output 
 
-![Screenshot of the game output](/Users/karmen/Desktop/web_development/intro_to_programming/projects/adventure_game_project/adventure_game.png) 
+![Screenshot of the game output](/projects/adventure_game_project/adventure_game.png) 

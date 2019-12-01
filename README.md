@@ -10,4 +10,4 @@ Run directly from the terminal
  
 ### Game Output 
 
-![Screenshot of the game output](/projects/adventure_game_project/adventure_game.png) 
+![Screenshot of the game output](/adventure_game_project/adventure_game.png) 
